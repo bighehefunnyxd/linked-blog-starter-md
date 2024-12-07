@@ -16,10 +16,10 @@
 > due before today
 > ```
 
-> [!future]+ This Week's Tasks
+> [!future]+ This Month's Tasks
 > ```tasks
 > not done
-> due this week
+> due this month
 > sort by path
 > sort by priority
 > hide due date
