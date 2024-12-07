@@ -1,0 +1,1 @@
+This opposes the "social contract" view.
