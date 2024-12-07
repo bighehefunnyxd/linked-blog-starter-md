@@ -1,5 +1,3 @@
-
-
 > [!todo]+ Today's Tasks
 > ```tasks
 > not done
@@ -9,7 +7,6 @@
 > hide due date
 > ```
 > 
-
 
 > [!warning]+ Overdue
 > ```tasks
