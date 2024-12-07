@@ -16,7 +16,15 @@
 > due before today
 > ```
 
-
+> [!future]+ This Week's Tasks
+> ```tasks
+> not done
+> due this week
+> sort by path
+> sort by priority
+> hide due date
+> ```
+> 
 
 
 
