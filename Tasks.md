@@ -1,3 +1,4 @@
 - [ ] Clothes 🔽  🔁 every week 📅 2024-12-07
 - [ ] Lab📅 2024-12-07 ⏫ 🏁 delete 
+- [ ] AirBnB lab📅 2024-12-07 ⏫ 🏁 delete 
 - [ ] Program 3📅 2024-12-09 🔼 🏁 delete 
