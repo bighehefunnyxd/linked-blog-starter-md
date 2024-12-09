@@ -1,9 +1,3 @@
-- [ ] FINISH WASHING CLOTHES 🔽  🔁 every week 📅 2024-12-07
-- [ ] AirBnB lab📅 2024-12-07 ⏫ 🏁 delete 
+
 - [ ] Program 3📅 2024-12-09 🔼 🏁 delete 
-- [ ] Checkpoint database thing 📅 2024-12-08 ⏫ 🏁 delete 
-- [ ] Accting Smart book duedate📅 2024-12-08 🛫 2024-12-08 ⏫ 
-- [ ] Finish lab📅 2024-12-08 🛫 2024-12-08 ⏳ 2024-12-08 ⏫ 🏁 delete 
-- [ ] fold clothes📅 2024-12-08 🛫 2024-12-08 ⏫ 🏁 delete 
-- [ ] study for exam tomorrow DATA ANALYTICS📅 2024-12-08 🛫 2024-12-08 ⏫ 🏁 delete 
-- [ ] study for exam tomorrow DATA ANALYTICS📅 2024-12-08 🛫 2024-12-08 ⏫ 🏁 delete
+- [ ] FINISH WASHING CLOTHES 🔽 🔁 every week 📅 2024-12-15 🏁 delete 

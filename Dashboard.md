@@ -1,4 +1,11 @@
 
+> [!warning]+ Overdue
+> ```tasks
+> not done
+> sort by priority
+> due before today
+> ```
+
 > [!todo]+ Today's Tasks
 > ```tasks
 > not done
@@ -9,12 +16,15 @@
 > ```
 > 
 
-> [!warning]+ Overdue
+> [!future]+ This Week's Tasks
 > ```tasks
 > not done
+> due this week
+> sort by path
 > sort by priority
-> due before today
+> hide due date
 > ```
+> 
 
 > [!future]+ This Month's Tasks
 > ```tasks
@@ -25,6 +35,3 @@
 > hide due date
 > ```
 > 
-
-
-
