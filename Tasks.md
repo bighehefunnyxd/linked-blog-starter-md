@@ -6,5 +6,3 @@
 - [ ] Finish lab📅 2024-12-08 🛫 2024-12-08 ⏳ 2024-12-08 ⏫ 🏁 delete 
 - [ ] fold clothes📅 2024-12-08 🛫 2024-12-08 ⏫ 🏁 delete 
 - [ ] study for exam tomorrow DATA ANALYTICS📅 2024-12-08 🛫 2024-12-08 ⏫ 🏁 delete
-
-
